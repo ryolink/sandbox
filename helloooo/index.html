@@ -1,0 +1,13 @@
+<html>
+    <body>
+        <script>
+            var request = navigator.mozApps.install("http://ryolink.github.io/sandbox/helloooo/app/manifest.webapp");
+request.onsuccess = function() {
+  alert('success');
+};
+request.onerror = function() {
+  alert('failre');
+};
+        </script>
+    </body>
+</html>

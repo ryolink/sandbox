@@ -1,0 +1,13 @@
+{
+  "version": "0.1",
+  "name": "Hellooo World!",
+  "description": "second firefox app.",
+  "launch_path": "/sandbox/helloooo/app/app.html",
+  "icons": {
+  },
+  "developer": {
+    "name": "Hellooo",
+    "url": "http://ryolink.github.io/sandbox/"
+  },
+  "default_locale": "ja"
+}
